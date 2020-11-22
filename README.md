@@ -30,9 +30,7 @@
 
   ## License
 
-  This project is licensed under the ISC license
-
-  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+  This project is not licensed 
 
 
   
